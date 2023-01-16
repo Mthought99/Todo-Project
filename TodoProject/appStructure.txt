@@ -1,0 +1,22 @@
+TodoProject
+
+    todo (app folder)
+
+        migrations (includes files related to migrations)
+    
+        static
+            todos
+              styles.css
+
+        templates
+            todo
+            --todo_list.html
+
+        models.py (python class for each database table)
+        urls.py (app. specific urls mapping)
+        views.py (views fns. to handle http request)
+
+        TodoProject
+
+        setting.py (project config. files)
+        urls.py (url mapping fpr the project)
